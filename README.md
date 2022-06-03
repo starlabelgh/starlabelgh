@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any exciting project.
 - 📫 How to reach me hello@starlabel.co.
 
-My name is Moses Samanhyia, I am a full stack mobile and web developer focused on cross-platform web and mobile applications using Javascript, Vue, React and PHP frameworks. 
+My name is Moses Samanhyia, I am a full stack mobile and web developer focused on cross-platform web and mobile applications using Javascript, Vue, React and Laravel PHP frameworks. 
 I'm a serial entrepreneur, data engineer and cybersecurity expert. I love developing high-end but simple solutions for SME's that drastically reduce operational inefficiencies in Ghana. 
 I enjoy crafting clean user interfaces and solving user experience problems on the web/mobile platform.
 
