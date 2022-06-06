@@ -6,7 +6,7 @@
 
 My name is Moses Samanhyia, I am a full stack mobile and web developer focused on cross-platform web and mobile applications using Javascript, Vue, React and Laravel PHP frameworks. 
 I'm a serial entrepreneur, data engineer and cybersecurity expert. I love developing high-end but simple solutions for SME's that drastically reduce operational inefficiencies in Ghana. 
-I enjoy crafting clean user interfaces and solving user experience problems on the web/mobile platform.
+I enjoy crafting clean user interfaces and solving user experience problems on the web/mobile platform. Checkout my portfolio website: https://starlabelgh.github.io/mosessamanhyiaportfolio/
 
 <!---
 starlabelgh/starlabelgh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
